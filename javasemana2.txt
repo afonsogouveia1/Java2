@@ -1,0 +1,67 @@
+if(A>B){
+//escrevemos o codigo para ser executdado caso A seja maior que B
+}
+
+
+
+if(A>B){
+//escrevemos o codigo para ser executdado caso A seja maior que B
+}else{
+//escrevemos o codigo para ser executdado caso A nao seja maior que B
+}
+
+if(A==1){
+msg="Voce sera rederecionado para a pagina inicial"
+}
+else if (A==2){
+msg="Ola mundo"
+}
+else{
+msg="xau"
+}
+
+
+
+
+
+
+
+
+for(expressaoInicial; condicao; incremento){
+//declaracao
+}
+
+
+do{
+//declaracao 
+}while(condicao);
+
+
+while(condicao){
+//declaracao
+}
+
+switch(opcao){
+Case 1:
+//o codigo para a primeira opcao
+Break;
+
+Case 2:
+//o codigo para a segunda opcao
+Break;
+
+Case 3:
+//o codigo para a terceira opcao
+Break;
+
+Case 4:
+//o codigo para a quarta opcao
+Break;
+
+Case 5:
+//o codigo para a quinta opcao
+Break;
+
+Default:
+//o codigo para se nao for nenhuma das opcoes anteriores
+}
